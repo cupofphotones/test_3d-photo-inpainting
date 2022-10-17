@@ -1,0 +1,2 @@
+color-model.pth filter=lfs diff=lfs merge=lfs -text
+depth-model.pth filter=lfs diff=lfs merge=lfs -text
